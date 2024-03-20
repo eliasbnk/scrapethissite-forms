@@ -1,0 +1,8 @@
+# macOS system files that might be created on external disks
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# Virtual Environment
+venv/
