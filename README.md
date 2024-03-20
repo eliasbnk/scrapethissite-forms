@@ -507,7 +507,7 @@ print(json.dumps(team_data[:5], indent=4))
 ]
 ```
 **One thing to consider is error boundary/exceptions...**
-**As user can provide a page that doesn't have content,**
+**As user can provide a page_num that doesn't have content,**
 **Or provide an invalid per_page number.**
 
 ### Basic Error Boundary:
